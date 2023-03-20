@@ -13,8 +13,6 @@
 [Source Tree](https://www.sourcetreeapp.com/)
 
 # TASK
-
-<!--
 ## hello.c
 ```clike
 #include <stdio.h>
@@ -24,6 +22,7 @@ int main(){
     return 0;
 }
 ```
+<!--
 ## count.c
 ```clike
 /* 1 累加到 n */
